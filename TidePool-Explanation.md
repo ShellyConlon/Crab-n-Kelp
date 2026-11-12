@@ -1,6 +1,6 @@
 Crab eats Kelp Explained: Week 7 
 
-The Class: ##name the class: public class TidePool
+The Class:
 +---------------------------------------+
  TidePool                              
 +---------------------------------------+
