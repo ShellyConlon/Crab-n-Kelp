@@ -112,7 +112,7 @@ Rules Added (Wk 9):  |  HUNGRY  | <------------------------ |   FULL   |
 
 Week 9, I added the status field and the updateCrab() method so crabs gain 4 energy from eating kelp, lose 1 energy on empty water, and switch between "HUNGRY", "FULL", and "DEAD". This connected the crabs to the grid so they consume kelp and starve when food runs out.
 
-(1) WEEK 10 UML CLASS DIAGRAM (With Exam Question #2 Markers (1) and (2)):
+WEEK 10 UML CLASS DIAGRAM (With Exam Question #2 Markers (1) and (2)):
 
 +---------------------------------------+
 | TidePoolUI                     *NEW*  |
