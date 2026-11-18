@@ -4,4 +4,4 @@
 * **Foraging & Metabolism:**
   
 ## Documentation
-- [Read the Week 7 TidePool Explanation](TidePool-Explanation.md)
+- [Read the TidePool Explanation](TidePool-Explanation.md)
